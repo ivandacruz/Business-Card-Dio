@@ -20,3 +20,6 @@ Aplicativo de lista de cartão de visita onde é possível manter os dados nome,
 3. Montando layout do projeto
 5. Configuração do room database
 7. Compartilhamento de cartão de visita
+
+# Creditos ao Professor
+* Igor Rotondo
